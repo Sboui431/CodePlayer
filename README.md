@@ -1,2 +1,2 @@
 # CodePlayer
-JavaScript
+JavaScript/HTML/CSS
